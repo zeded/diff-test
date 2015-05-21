@@ -1727,8 +1727,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 BC</source>
-        <translation>123.456 BC {0.00 ?}</translation>
+        <source>0.00 BTCR</source>
+        <translation>123.456 BTCR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1797,8 +1797,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 BC</source>
-        <translation>123.456 BC</translation>
+        <source>123.456 BTCR</source>
+        <translation>123.456 BTCR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1812,8 +1812,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça BitCurrency (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Introdueix una adreça BitCurrency (p.ex. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1945,7 +1945,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1986,8 +1986,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça BitCurrency (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Introdueix una adreça BitCurrency (p.ex. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
 </context>
 <context>
@@ -2010,8 +2010,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>L&apos;adreça per a signar el missatge (per exemple B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2074,8 +2074,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2090,8 +2090,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça BitCurrency (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Introdueix una adreça BitCurrency (p.ex. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2754,8 +2754,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 15714 o testnet: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15814 or testnet: 25814)</source>
+        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 15814 o testnet: 25814)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2804,8 +2804,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
-        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 15715 o testnet: 25715)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15815 or testnet: 25815)</source>
+        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 15815 o testnet: 25815)</translation>
     </message>
     <message>
         <location line="-17"/>

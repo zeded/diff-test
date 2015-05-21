@@ -1729,8 +1729,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 BC</source>
-        <translation>123.456 BC {0.00 ?}</translation>
+        <source>0.00 BTCR</source>
+        <translation>123.456 BTCR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1799,8 +1799,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 BC</source>
-        <translation>123.456 BC</translation>
+        <source>123.456 BTCR</source>
+        <translation>123.456 BTCR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1814,8 +1814,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite BitCurrency naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Vnesite BitCurrency naslov (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1947,7 +1947,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1988,8 +1988,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite BitCurrency naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Vnesite BitCurrency naslov (npr. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
 </context>
 <context>
@@ -2012,8 +2012,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2076,8 +2076,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2092,8 +2092,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite BitCurrency naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Vnesite BitCurrency naslov (npr. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2756,8 +2756,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 15714 ali testnet: 25714) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15814 or testnet: 25814)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 15814 ali testnet: 25814) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2806,8 +2806,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 15714 ali testnet: 25714) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15815 or testnet: 25815)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 15814 ali testnet: 25814) </translation>
     </message>
     <message>
         <location line="-17"/>

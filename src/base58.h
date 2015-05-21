@@ -252,7 +252,7 @@ public:
 };
 
 /** base58-encoded addresses.
- * Public-key-hash-addresses have version 25 (or 111 testnet).
+ * Public-key-hash-addresses have version 43 (or 111 testnet).
  * The data vector contains RIPEMD160(SHA256(pubkey)), where pubkey is the serialized public key.
  * Script-hash-addresses have version 85 (or 196 testnet).
  * The data vector contains RIPEMD160(SHA256(cscript)), where cscript is the serialized redemption script.

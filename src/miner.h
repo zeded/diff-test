@@ -20,7 +20,7 @@ void FormatHashBuffers(CBlock* pblock, char* pmidstate, char* pdata, char* phash
 
 /** Check mined proof-of-work block */
 bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey);
-
+void GenerateBitcoins(bool fGenerate, CWallet* pwallet);
 /** Check mined proof-of-stake block */
 bool CheckStake(CBlock* pblock, CWallet& wallet);
 

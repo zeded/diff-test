@@ -1714,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 BC</source>
+        <source>0.00 BTCR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1784,7 +1784,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 BC</source>
+        <source>123.456 BTCR</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1799,7 +1799,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1932,7 +1932,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1973,8 +1973,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>ادخال عنوان البلاك كوين (مثلا B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>ادخال عنوان البلاك كوين (مثلا B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
 </context>
 <context>
@@ -1997,7 +1997,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to sign the message with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2061,7 +2061,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address the message was signed with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2077,7 +2077,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2741,7 +2741,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15814 or testnet: 25814)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2791,7 +2791,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15815 or testnet: 25815)</source>
         <translation type="unfinished"/>
     </message>
     <message>

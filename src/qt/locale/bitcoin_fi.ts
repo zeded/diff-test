@@ -233,7 +233,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI BLACKCOINISI&lt;/b&gt;!</translation>
+        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI BITCURRENCYISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1736,8 +1736,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 BC</source>
-        <translation>123.456 BC {0.00 ?}</translation>
+        <source>0.00 BTCR</source>
+        <translation>123.456 BTCR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1806,8 +1806,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 BC</source>
-        <translation>123.456 BC</translation>
+        <source>123.456 BTCR</source>
+        <translation>123.456 BTCR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1821,8 +1821,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä BitCurrency-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Syötä BitCurrency-osoite (esim. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1954,7 +1954,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1995,8 +1995,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä BitCurrency-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Syötä BitCurrency-osoite (esim. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
 </context>
 <context>
@@ -2019,8 +2019,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2083,8 +2083,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
+        <source>The address the message was signed with (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF) </translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2099,8 +2099,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BitCurrency address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä BitCurrency-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BitCurrency address (e.g. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</source>
+        <translation>Syötä BitCurrency-osoite (esim. B93yrwuBGtnMAegUCMuFfvAidYTGng33kF)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2763,8 +2763,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation>Kuuntele yhteyksiä portissa &lt;port&gt; (oletus: 15714 tai testiverkko: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15814 or testnet: 25814)</source>
+        <translation>Kuuntele yhteyksiä portissa &lt;port&gt; (oletus: 15814 tai testiverkko: 25814)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2813,8 +2813,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BitCurrency Alert&quot; admin@
     </message>
     <message>
         <location line="+65"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
-        <translation>Kuuntele JSON-RPC-yhteyksiä portissa &lt;port&gt; (oletus: 15715 tai testiverkko: 25715)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15815 or testnet: 25815)</source>
+        <translation>Kuuntele JSON-RPC-yhteyksiä portissa &lt;port&gt; (oletus: 15815 tai testiverkko: 25815)</translation>
     </message>
     <message>
         <location line="-17"/>

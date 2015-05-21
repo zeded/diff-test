@@ -27,11 +27,12 @@ namespace Checkpoints
     //
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        ( 5001,   uint256("0x2fac9021be0c311e7b6dc0933a72047c70f817e2eb1e01bede011193ad1b28bc") ) // hardfork
-        ( 10000,  uint256("0x0000000000827e4dc601f7310a91c45af8df0dfc1b6fa1dfa5b896cb00c8767c") ) // last pow block
-        ( 38425,  uint256("0x62bf2e9701226d2f88d9fa99d650bd81f3faf2e56f305b7d71ccd1e7aa9c3075") ) // hardfork
-        ( 254348, uint256("0x9bf8d9bd757d3ef23d5906d70567e5f0da93f1e0376588c8d421a95e2421838b") ) // minor network split
-        ( 319002, uint256("0x0011494d03b2cdf1ecfc8b0818f1e0ef7ee1d9e9b3d1279c10d35456bc3899ef") ) // hardfork
+        ( 0,   uint256("0x000008764d5c635c287151cabaa066526f6aac5ac885b46f4183f8c1b7c357d4") ) // genesis block
+       // ( 5001,   uint256("0x2fac9021be0c311e7b6dc0933a72047c70f817e2eb1e01bede011193ad1b28bc") ) // hardfork
+       // ( 10000,  uint256("0x0000000000827e4dc601f7310a91c45af8df0dfc1b6fa1dfa5b896cb00c8767c") ) // last pow block
+        //( 38425,  uint256("0x62bf2e9701226d2f88d9fa99d650bd81f3faf2e56f305b7d71ccd1e7aa9c3075") ) // hardfork
+       // ( 254348, uint256("0x9bf8d9bd757d3ef23d5906d70567e5f0da93f1e0376588c8d421a95e2421838b") ) // minor network split
+        //( 319002, uint256("0x0011494d03b2cdf1ecfc8b0818f1e0ef7ee1d9e9b3d1279c10d35456bc3899ef") ) // hardfork
     ;
 
     // TestNet has no checkpoints
@@ -345,7 +346,7 @@ namespace Checkpoints
 }
 
 // ppcoin: sync-checkpoint master key
-const std::string CSyncCheckpoint::strMasterPubKey = "04a18357665ed7a802dcf252ef528d3dc786da38653b51d1ab8e9f4820b55aca807892a056781967315908ac205940ec9d6f2fd0a85941966971eac7e475a27826";
+const std::string CSyncCheckpoint::strMasterPubKey = "04ec20710617222230bbc1549d596a076fca5cb4641b0941f70d5ef686685ac398d0709610d92b0044359ad29babb21423f5b7b4a0b72730d78b3fba25a4bdfa4c";
 
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 
